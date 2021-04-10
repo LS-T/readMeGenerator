@@ -1,1 +1,1 @@
-# readMeGenerator
+A readme generator was created so that a user could draft up their own README.md for their projects. This particular app is created in the terminal and after the user answers all the prompts, a README file is generated. 
